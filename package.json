@@ -1,0 +1,16 @@
+{
+  "name": "utc-clock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Mike Bergen",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.6.2",
+    "moment": "^2.18.1"
+  }
+}
